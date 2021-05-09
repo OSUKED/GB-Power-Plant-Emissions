@@ -1,4 +1,4 @@
-data/elexon/**
+data/raw/elexon/**
 
 *.bak
 .gitattributes
